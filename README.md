@@ -21,6 +21,7 @@ business decisions.
 ## Connect with Me
 
 [LinkedIn_Profile](https://www.linkedin.com/in/derrick-majani-a75aa2104/)
+- derrickmajani2@gmail.com
 
 
 ## Work and Affiliations
