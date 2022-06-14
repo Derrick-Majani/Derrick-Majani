@@ -1,5 +1,5 @@
 # PROFESSIONAL SUMMARY 
-A reliable and experienced Data Scientist, Qualified Accountant and Artificial 
+A reliable and experienced Data Scientist, Artificial 
 Intelligence Business Leader with over 6 years of experience executing data-driven 
 solutions to increase efficiency, accuracy, to complex business problems. I have 
 experience in leading effective teams in all areas of Audit and applying audit techniques 
