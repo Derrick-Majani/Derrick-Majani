@@ -19,6 +19,25 @@ decisions for clients and others. I am able to asses’ data and help organizati
 to leverage on the power of AI (Artificial Intelligence) to make informed strategic 
 business decisions. 
 
+I have progressively transitioned from Audit Manager ->->Data Scientist->.With every transition in the role, I have enriched myself and contributed significantly to the growth of all stakeholders involved. I intend to continue doing hands-on data engineering and data analysis while developing additional technical and leadership skills.
+
+### Skills 
+📍Programming: Python (Numpy, Pandas, Sklearn, Matplotlib, Seaborn) SQL.
+
+📍Visualization: Tableau,
+
+📍Statistics: Descriptive Statistics, Inferential Statistics, Hypothesis Testing, Regression Analysis.
+
+📍Machine Learning: Regression Modeling, Decision Tree, Random Forest, AdaBoost, GradientBoosting XGBoost, K-means Clustering, Feature Extraction. 
+
+📍Technology: Jupyter, Google Colab, GIT.
+
+📍Database/Datawarehouse: AWS SageMaker
+
+📍Cloud: AWS.
+
+📍Functional Domain: Hospitality, Banking, HR Analytics, Retail, Finance,Tea Industry, Online Risk Management.
+
 ## Connect with Me
 
 [LinkedIn_Profile](https://www.linkedin.com/in/derrick-majani-a75aa2104/)
