@@ -1,10 +1,8 @@
 # PROFESSIONAL SUMMARY 
 A reliable and experienced Data Scientist, Artificial 
 Intelligence Business Leader with over 6 years of experience executing data-driven 
-solutions to increase efficiency, accuracy, to complex business problems. I have 
-experience in leading effective teams in all areas of Audit and applying audit techniques 
-and procedures to analyze financial information and provide assurance services on 
-Information Systems.
+solutions to increase efficiency, accuracy, to complex business problems. 
+
 Worked on captivating data science projects and Audit assurance engagements with 
 extensive experience in domains like; Hospitality, Banking, HR Analytics, Retail, Finance, 
 Tea Industry, Risk Management, Information Systems and Others.
