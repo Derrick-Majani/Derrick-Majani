@@ -22,7 +22,7 @@ business decisions.
 I have progressively transitioned from Audit Manager ->->Data Scientist->.With every transition in the role, I have enriched myself and contributed significantly to the growth of all stakeholders involved. I intend to continue doing hands-on data engineering and data analysis while developing additional technical and leadership skills.
 
 ### Skills 
-📍Programming: Python (Numpy, Pandas, Sklearn, Matplotlib, Seaborn) SQL.
+📍Programming: Python (Numpy, Pandas, Sklearn, Matplotlib, Seaborn) SQL,KNIME
 
 📍Visualization: Tableau,
 
