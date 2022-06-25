@@ -6,6 +6,9 @@ solutions to increase efficiency, accuracy, to complex business problems.
 Worked on captivating data science projects and Audit assurance engagements with 
 extensive experience in domains like; Hospitality, Banking, HR Analytics, Retail, Finance, 
 Tea Industry, Risk Management, Information Systems and Others.
+
+I am thoroughly enjoying getting back to coding with a focus on data, databases, and analysis.
+Now I’d like to derive actionable insights and provide solutions to business problems with my data analytics and data science skills.
 My work involves Fraud Detection, Finance and Risk Analytics, Forecasting Models, 
 applying statistical methods in a business context to help the organization address key 
 business questions and take evidence-based decisions. This includes hypothesis testing 
