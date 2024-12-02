@@ -30,7 +30,7 @@ I have progressively transitioned from Audit Manager ->->Data Scientist->.With e
 
 📍Machine Learning: Regression Modeling, Decision Tree, Random Forest, AdaBoost, GradientBoosting XGBoost, K-means Clustering, Feature Extraction. 
 
-📍Technology: Jupyter, Google Colab, GIT.
+📍Technology: Jupyter, Google Colab, GIT, Databricks
 
 📍Database/Datawarehouse: AWS SageMaker
 
